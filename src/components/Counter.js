@@ -24,7 +24,7 @@ class Counter extends Component {
 
 
         this.setState ((prevState)=>({
-            count:prevState.count+1
+            count : prevState.count + 1
 
 
 
